@@ -6,3 +6,4 @@ while (start <= finish)
     Console.Write(start + " ");
     start++;
 }
+// вывести период чисел от 1 до 30
